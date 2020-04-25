@@ -20,7 +20,7 @@ def read_csv_chunked(filepath):
     df = pd.concat(data_frames)
     
     print(f"Number of rows and columns {df.shape}")
-    print('-------------------------------------------------------')
+
     return df
 
 
