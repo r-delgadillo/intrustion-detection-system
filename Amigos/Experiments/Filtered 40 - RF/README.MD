@@ -1,1 +1,0 @@
-This experiment was ran by removing 40 least significant features.
